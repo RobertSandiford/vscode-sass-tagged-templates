@@ -38,7 +38,31 @@
 				],
 				"path": "./syntaxes/sass-template.json",
 				"scopeName": "sass-template"
-			}
+			},
+            {
+                "injectTo": [
+                    "source.js",
+                    "source.ts",
+                    "source.jsx",
+                    "source.js.jsx",
+                    "source.tsx",
+                    "source.vue"
+                ],
+                "path": "./syntaxes/scss-template.json",
+                "scopeName": "scss-template"
+            },
+            {
+                "injectTo": [
+                    "source.js",
+                    "source.ts",
+                    "source.jsx",
+                    "source.js.jsx",
+                    "source.tsx",
+                    "source.vue"
+                ],
+                "path": "./syntaxes/css-template.json",
+                "scopeName": "css-template"
+            }
 		]
 	},
 	"scripts": {
