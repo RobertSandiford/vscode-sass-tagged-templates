@@ -1,11 +1,10 @@
 {
-	"name": "sass-template-strings",
-	"displayName": "Sass Template Strings",
-	"publisher": "ZaydekMichels-Gualtieri",
-	"repository": "https://github.com/zaydek/vscode-sass-template-strings",
+	"name": "vscode-sass-tagged-templates",
+	"displayName": "Sass Tagged Template Literals",
+	"publisher": "Robert Sandiford",
 	"license": "MIT",
 	"version": "0.0.8",
-	"description": "Syntax highlighting for CSS and Sass template strings.",
+	"description": "Syntax highlighting for CSS and SASS tagged template literals.",
 	"categories": [
 		"Programming Languages"
 	],
